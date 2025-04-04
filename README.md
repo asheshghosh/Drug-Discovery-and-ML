@@ -1,6 +1,9 @@
-# Drug-Discovery-and-ML
+# Drug Discovery and Machine Learning 
+![Logo](https://github.com/asheshghosh/Drug-Discovery-and-ML/logo.png?raw=true)
 
-## - Part 1: [Drug Discovery Process Notebook] ()
+## - Part 1: [Drug Discovery Process Jupyter Notebook]
+
+---
 
 
 
