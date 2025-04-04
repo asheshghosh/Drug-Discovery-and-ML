@@ -1,6 +1,6 @@
 # Drug-Discovery-and-ML
 
-- [Part 1: Drug Discovery Process]
+## - Part 1: [Drug Discovery Process Notebook] 
 
 
 
